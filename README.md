@@ -1,2 +1,3 @@
 # weather-app
-asdfghjk;l
+
+simple app built using node.js that gives weather info based on the address entered by user
