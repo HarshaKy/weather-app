@@ -4,7 +4,7 @@ var geocodeAddress = (address, callback) => {
   var encodedAddress = encodeURIComponent(address);
 
   request({
-    url: `https://maps.googleapis.com/maps/api/geocode/json?address=${encodedAddress}%20+&key=AIzaSyCYJznXeBwok_h5AZ1QuvvMrtrkmcl1_yE`,
+    url: `https://maps.googleapis.com/maps/api/geocode/json?address=${encodedAddress}%20+&key=AIzaSyBaG9M9TZ2B9edD3nPW4_UXofg3xI0jLgk`,
     json: true
   }, (error, response, body) => {
     // console.log(body);
