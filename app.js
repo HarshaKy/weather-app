@@ -37,7 +37,7 @@ geocode.geocodeAddress(argv.address, (errorMessage, results) => {
 
 
 
-// 8ddcf168b2f164ee9d3fffd5162a0be4
+
 // // example lat and lng
 // "latitude": 42.3601,
 // "longitude": -71.0589,
